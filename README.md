@@ -112,7 +112,7 @@ Comprehensive comparison notebook that:
 
    ```bash
    git clone <repository-url>
-   cd brain-tumor-classification
+   cd <project-name>
    ```
 
 2. **Upload to Google Colab**
